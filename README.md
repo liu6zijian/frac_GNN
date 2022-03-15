@@ -1,2 +1,2 @@
 # frac_GNN
-GNN model based on fractional gradient descent method
+This is the official code of the paper "A Regularized Graph Neural Network based on Approximate Fractional Order Gradients".
